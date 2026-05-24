@@ -10,7 +10,7 @@ layers:
   - U
   - {t: I, h: '5'}
   - O
-  - BACKSPACE
+  - P
   - A
   - S
   - D
@@ -41,7 +41,7 @@ layers:
   - {t: SPACE, h: '2'}
   - {t: LANG1, h: '3'}
   - TAB
-  - {t: '-', h: '1'}
+  - {t: BACKSPACE, h: '1'}
   - ESC
   '1':
   - {t: ▽, type: trans}
